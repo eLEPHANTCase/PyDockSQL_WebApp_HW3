@@ -2,17 +2,20 @@
 Attempting to get my own version of the project/assignment
 to properly function.
 
-# Screenshot: View of data tables in PyCharm
+# Screenshot: View of Data Tables in PyCharm
 ![First Screenshot](screenshots/2a.png)
 
-# Screenshot: Browser displaying homepage with data
+# Screenshot: Browser Displaying Homepage with Data
 ![Second Screenshot](screenshots/2b.png)
 
-# Screenshot: Browser displaying data record as a view of one record
+# Screenshot: Browser Displaying a Record as a View of One Record
 ![Third Screenshot](screenshots/2c.png)
 
-# Screenshot: New record(s) added to homepage
+# Screenshot: New Record(s) Added to Homepage
 ![Fourth Screenshot](screenshots/2d.png)
 
+# Screenshot: Browser Displaying an Updated Record Added to Homepage
+![Fifth Screenshot](screenshots/2e.png)
+
 # Screenshot: Deleted record(s) from homepage
-![Fifth Screenshot](screenshots/2f.png)
+![Sixth Screenshot](screenshots/2f.png)
